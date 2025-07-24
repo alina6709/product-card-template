@@ -93,7 +93,7 @@ function ProductCard({ product }) {
   );
 }
 export default ProductCard;
-"homepage": "https://your-username.github.io/repo-name",
+"homepage": [",](https://github.com/alina6709)
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
